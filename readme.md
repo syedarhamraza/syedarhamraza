@@ -115,10 +115,10 @@
 </p>
 
 <a> 
-    <a href="https://github.com/arhamraza112"><img alt="Arham raza's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=arhamraza112&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/arhamraza112"><img alt="Arham raza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arhamraza112&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/arhamraza112"><img alt="Arham Raza's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=arhamraza112&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/arhamraza112"><img alt="Arham Raza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arhamraza112&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Syed Arham Raza's Graph](https://github-readme-activity-graph.vercel.app/graph?username=arhamraza112&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Syed Arham Raza's Graph](https://github-readme-activity-graph.vercel.app/graph?username=arhamraza112&custom_title=Syed%20Arham's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
