@@ -15,14 +15,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://arhamatlas.online/">Syed Arham Raza</a></b>
+                <b><a target="_blank" href="https://arhammastery.dev/">Syed Arham Raza</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=arham+atlas">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=arham+mastery">「 Google Me 」</a>
     <br>
     「 I am a front end developer from <b>Pakistan</b> 」
     <br>
@@ -31,11 +31,11 @@
 </p>
 
 <p align="center">
- <a href="https://arhamatlas.online" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arham atlas" />
+ <a href="https://arhammastery.dev" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arham mastery" />
  </a>
  <a href="https://www.linkedin.com/in/syed-arham-raza-atlas/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arham atlas linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arham mastery linkedin"/>
  </a>
  <a href="https://www.instagram.com/_syedarham_raza_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="arham raza instagram" />
@@ -51,7 +51,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: contact@arhamatlas.online<br/><br/>
+ 📧 &emsp; Reach me anytime: contact@arhammastery.dev<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/arhamraza112)
 
 </p>
