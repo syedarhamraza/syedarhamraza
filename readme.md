@@ -37,7 +37,7 @@
  <a href="https://www.linkedin.com/in/syed-arham-raza-atlas/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arham mastery linkedin"/>
  </a>
- <a href="https://www.instagram.com/_syedarham_raza_/" target="_blank">
+ <a href="https://www.instagram.com/arhammastery.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="arham raza instagram" />
  </a> 
 </p>
