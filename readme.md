@@ -15,7 +15,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://arhammastery.dev/">Syed Arham Raza</a></b>
+                <b><a target="_blank" href="https://arhammastery.dev/">Syed Arham Raza AKA Arham Mastery</a></b>
         </samp>
 </h3>
 
