@@ -102,7 +102,7 @@
 
 <p align="center">
   <a href="https://github.com/syedarhamraza">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhammastery&theme=radical" alt="Arham Mastery's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedarhamraza&theme=radical" alt="Arham Mastery's GitHub Contribution"/>
   </a>
 </p>
 
@@ -113,4 +113,4 @@
 </a>
 
 
-![Arham Mastery's Graph](https://github-readme-activity-graph.vercel.app/graph?username=arhammastery&custom_title=Syed%20Arham's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Arham Mastery's Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedarhamraza&custom_title=Syed%20Arham's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
