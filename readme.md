@@ -34,7 +34,7 @@
  <a href="https://arhammastery.dev" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arham mastery" />
  </a>
- <a href="https://www.linkedin.com/in/syed-arham-raza-atlas/" target="_blank">
+ <a href="https://www.linkedin.com/in/syed-arham-raza/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arham mastery linkedin"/>
  </a>
  <a href="https://www.instagram.com/arhammastery.dev/" target="_blank">
@@ -52,7 +52,7 @@
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: contact@arhammastery.dev<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/arhammastery)
+ 💬 &emsp; Ask me about anything [here](https://github.com/syedarhamraza)
 
 </p>
 
@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://github.com/syedarhamraza">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhammastery&theme=radical&border=7F3FBF&background=0D1117" alt="Arham's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedarhamraza&theme=radical&border=7F3FBF&background=0D1117" alt="Arham's GitHub streak"/>
   </a>
 </p>
 
