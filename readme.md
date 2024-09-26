@@ -87,7 +87,7 @@
 -->
 
 <p align="left">
-  <a href="https://github.com/arhammastery?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/syedarhamraza?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -95,20 +95,20 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/arhammastery">
+  <a href="https://github.com/syedarhamraza">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arhammastery&theme=radical&border=7F3FBF&background=0D1117" alt="Arham's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/syedarhamraza">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arhammastery&theme=radical" alt="Arham Mastery's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/arhammastery"><img alt="Arham Mastery's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=arhammastery&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/arhammastery"><img alt="Arham Raza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arhammastery&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/syedarhamraza"><img alt="Arham Mastery's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=syedarhamraza&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/syedarhamraza"><img alt="Arham Raza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=syedarhamraza&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
