@@ -22,7 +22,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=arham+mastery">「 Google Arham Mastery (me) 」</a>
+    
     <br>
     「 I am a front end developer from <b>Pakistan</b> 」
     <br>
