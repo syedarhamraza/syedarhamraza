@@ -20,16 +20,6 @@
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    
-    <br>
-    「 I am a front end developer from <b>Pakistan</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
 <p align="center">
  <a href="https://arhammastery.dev" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arham mastery" />
