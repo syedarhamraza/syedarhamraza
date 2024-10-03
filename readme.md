@@ -42,7 +42,7 @@
  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: contact@arhammastery.dev<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/syedarhamraza)
+ 💬 &emsp; Ask me about anything [here](https://www.instagram.com/arhammastery.dev/)
 
 </p>
 
