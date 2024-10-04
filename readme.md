@@ -19,6 +19,7 @@
         </samp>
 </h3>
 
+![](https://komarev.com/ghpvc/?username=syedarhamraza&style=for-the-badge)
 
 <p align="center">
  <a href="https://arhammastery.dev" target="blank">
