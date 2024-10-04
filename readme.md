@@ -19,6 +19,10 @@
         </samp>
 </h3>
 
+<h3 align="center">
+        ![](https://komarev.com/ghpvc/?username=syedarhamraza&style=for-the-badge)
+</h3>
+
 ![](https://komarev.com/ghpvc/?username=syedarhamraza&style=for-the-badge)
 
 <p align="center">
