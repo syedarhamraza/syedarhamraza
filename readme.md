@@ -20,10 +20,12 @@
 </h3>
 
 
-        ![](https://komarev.com/ghpvc/?username=syedarhamraza&style=for-the-badge)
+<h3 align="center">
+  ![](https://komarev.com/ghpvc/?username=syedarhamraza&style=for-the-badge)
+</h3>
 
 
-![](https://komarev.com/ghpvc/?username=syedarhamraza&style=for-the-badge)
+
 
 <p align="center">
  <a href="https://arhammastery.dev" target="blank">
