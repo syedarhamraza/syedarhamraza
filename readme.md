@@ -64,7 +64,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://komarev.com/ghpvc/?username=syedarhamraza&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=syedarhamraza&style=for-the-badge&color=dac5a7)
 
 <br/>
 
