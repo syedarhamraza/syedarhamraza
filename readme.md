@@ -1,8 +1,8 @@
-# 🌟 Syed Arham Raza | Arham Mastery
+# Syed Arham Raza
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Creative+Problem+Solver;Code+Enthusiast;Always+Learning+%26+Growing&center=true&width=380&height=50&color=7F3FBF&size=22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;Creative+Problem+Solver;Code+Enthusiast;Always+Learning+%26+Growing&center=true&width=380&height=50&color=7F3FBF&size=22)
 
 </div>
 
