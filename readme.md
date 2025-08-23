@@ -1,107 +1,142 @@
-<!--
-<h2 align="center">
-  Welcome to Arhamatlas!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
+# 🌟 Syed Arham Raza | Arham Mastery
 
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+<div align="center">
 
- -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Creative+Problem+Solver;Code+Enthusiast;Always+Learning+%26+Growing&center=true&width=380&height=50&color=7F3FBF&size=22)
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://arhammastery.dev/">Syed Arham Raza AKA Arham Mastery</a></b>
-        </samp>
-</h3>
+</div>
 
-<p align="center">
- <a href="https://arhammastery.dev" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="arham mastery" />
- </a>
- <a href="https://www.linkedin.com/in/syed-arham-raza/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="arham mastery linkedin"/>
- </a>
- <a href="https://www.instagram.com/arhammastery.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="arham raza instagram" />
- </a> 
-</p>
-<br />
+---
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+## 📊 **GitHub Contributions Overview**
+
+<div align="center">
   
- ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: contact@arhammastery.dev<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://www.instagram.com/arhammastery.dev/)
+### 🏆 **Total Contributions This Year**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedarhamraza&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&icon_color=F8D866&custom_title=GitHub%20Statistics%20%7C%20Total%20Contributions)
 
-</p>
+### 🔥 **Contribution Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedarhamraza&theme=tokyonight&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<p align="left"> <a href="https://github.com/syedarhamraza"><img src="https://github-profile-trophy.vercel.app/?username=syedarhamraza&theme=onedark" alt="syedarhamraza" /></a> </p>
-<br/>
+### 📈 **Activity Graph**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedarhamraza&custom_title=Coding%20Journey%20%7C%20Contribution%20Activity&bg_color=0D1117&color=F85D7F&line=7F3FBF&point=F8D866&area_color=7F3FBF&title_color=F85D7F&area=true&hide_border=true)
 
-## Use To Code
+</div>
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+---
+
+## 👨‍💻 **About Me**
+
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation"/>
+
+```javascript
+const arhamMastery = {
+    name: "Syed Arham Raza",
+    alias: "Arham Mastery",
+    location: "Pakistan 🇵🇰",
+    role: "Full Stack Developer",
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    frameworks: ["React", "Next.js", "Tailwind CSS"],
+    tools: ["Git", "VS Code", "Figma"],
+    passion: "Building amazing web experiences",
+    currentFocus: "Learning new technologies daily",
+    contact: "contact@arhammastery.dev"
+};
+```
+
+### 🎯 **What Drives Me**
+- ✨ **Creating** beautiful and functional web applications
+- 🚀 **Learning** cutting-edge technologies and best practices
+- 🤝 **Sharing** knowledge with the developer community
+- 💡 **Solving** complex problems with elegant solutions
+
+---
+
+## 🛠️ **Tech Stack & Tools**
+
+<div align="center">
+
+### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+### **Styling & Design**
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### **Development Tools**
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://komarev.com/ghpvc/?username=syedarhamraza&style=for-the-badge&color=dac5a7)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<br/>
+</div>
 
-<!--
+---
 
-## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
--->
+## 📈 **GitHub Analytics**
 
-<p align="left">
-  <a href="https://github.com/syedarhamraza?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+<div align="center">
 
-<br/>
-<hr/>
-<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedarhamraza&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&icon_color=F8D866" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarhamraza&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF" />
 
-<p align="center">
-  <a href="https://github.com/syedarhamraza">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedarhamraza&theme=radical&border=7F3FBF&background=0D1117" alt="Arham's GitHub streak"/>
-  </a>
-</p>
+### 🏅 **GitHub Achievements**
+![Trophy](https://github-profile-trophy.vercel.app/?username=syedarhamraza&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
 
-<p align="center">
-  <a href="https://github.com/syedarhamraza">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedarhamraza&theme=radical" alt="Arham Mastery's GitHub Contribution"/>
-  </a>
-</p>
+### 📊 **Detailed Contribution Stats**
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedarhamraza&theme=tokyonight)
 
-<a> 
-    <a href="https://github.com/syedarhamraza"><img alt="Arham Mastery's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=syedarhamraza&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/syedarhamraza"><img alt="Arham Raza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=syedarhamraza&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+</div>
 
+---
 
-![Arham Mastery's Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedarhamraza&custom_title=Syed%20Arham's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌍_Website-arhammastery.dev-7F3FBF?style=for-the-badge)](https://arhammastery.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-arham-raza/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arhammastery.dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@arhammastery.dev)
+
+</div>
+
+---
+
+## 🎨 **Featured Projects**
+
+<div align="center">
+
+[![All Repositories](https://img.shields.io/badge/🚀_Explore_All_Projects-View_Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedarhamraza?tab=repositories)
+
+</div>
+
+---
+
+## 📈 **Profile Views**
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=syedarhamraza&style=for-the-badge&color=7F3FBF&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **"Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+**Thank you for visiting my profile! Let's connect and build something amazing together! 🚀**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
