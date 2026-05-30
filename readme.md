@@ -12,7 +12,7 @@ CS student by day. Open to internships and collaborations.
 
 ---
 
-## stack
+## Stack
 
 | | Language / Tool |
 |---|---|
@@ -23,13 +23,13 @@ CS student by day. Open to internships and collaborations.
 
 ---
 
-## projects
+## Projects
 
 Will Update Soon
 
 ---
 
-## contact
+## Contact
 
 - Web: [syedarhamraza](https://syedarhamraza-portfolio.vercel.app/)
 - LinkedIn: [syed-arham-raza](https://linkedin.com/in/syed-arham-raza)
