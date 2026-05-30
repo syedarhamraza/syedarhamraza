@@ -23,6 +23,10 @@ CS student by day. Open to internships and collaborations.
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedarhamraza&show_icons=true&count_private=true&hide_border=true)
+
 ## Projects
 
 Will Update Soon
