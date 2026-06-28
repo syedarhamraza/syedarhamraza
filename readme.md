@@ -27,7 +27,7 @@ CS student by day. Open to internships and collaborations.
 
 ## Projects
 
-Will Update Soon
+- DeenPulse: [Repo](https://github.com/syedarhamraza/deen-pulse)
 
 ---
 
